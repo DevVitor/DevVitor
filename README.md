@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stars-7k-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Followers-19k-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-105-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Youtube%20Followers-5k-red?style=for-the-badge&logo=youtube"/>
 </p>
 
@@ -46,7 +46,7 @@
 ## 👀 Visualizações
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevVitor&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=DevVitor&label=Visualizações&color=blue&style=for-the-badge&base=1000"/>
 </p>
 
 ---
