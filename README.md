@@ -1,145 +1,68 @@
-# 👩🏻‍💻 Vitor Vanderley
+<h1 align="center">👋 Fala aí, eu sou o Vitor</h1>
 
-**`Desenvolvedor FullStack e Mobile`**
-
-Me chamo Vitor Vanderley, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio na EEFP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software e Ciências da Computação. Sou apaixonado por tecnologia, atuo na área desde os meus 13 anos. Meu início foi marcado pelo desenvolvimento de jogos para desktop, mas após conhecer o sistema Web, eu decidi que já sabia como queria seguir minha carreira.
-
-<p align="left">
-    <a href="https://www.youtube.com/channel/UCYjYvX0A_MDV4FPxdSSj73A">
-        <img 
-            alt="youtube subscribers" 
-            title="Conheça o meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@MrBeast?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://github.com/DevVitor?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DevVitor?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  💻 Desenvolvedor | 🚀 Criador de projetos | 🎯 Focado em evolução
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevVitor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvitor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
+## 🔥 Destaques
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stars-99999-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-50000-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MrBeast%20Followers-300M-red?style=for-the-badge&logo=youtube"/>
+</p>
+
+---
+
+## 👀 Visualizações
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 Projetos
+
+🚧 Em construção... (mas já já vem coisa braba)
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Frase
+
+<p align="center">
+  "Código bom é código que resolve problema."
 </p>
