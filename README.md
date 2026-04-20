@@ -36,9 +36,9 @@
 ## 🔥 Destaques
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-99999-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Followers-50000-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/MrBeast%20Followers-300M-red?style=for-the-badge&logo=youtube"/>
+  <img src="https://img.shields.io/badge/Stars-7k-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-19k-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/MrBeast%20Followers-5k-red?style=for-the-badge&logo=youtube"/>
 </p>
 
 ---
