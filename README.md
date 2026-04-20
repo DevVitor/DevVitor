@@ -23,10 +23,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DevVitor&show_icons=true&theme=tokyonight"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVitor&layout=compact&theme=tokyonight"/>
     </td>
   </tr>
 </table>
@@ -46,21 +46,37 @@
 ## 👀 Visualizações
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=DevVitor&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧩 Projetos
 
-🚧 Em construção... (mas já já vem coisa braba)
+### 🛒 Hadak Store (Discord)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-Loja%20de%20Painéis-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+<p align="center">
+  💼 Painéis personalizados para servidores Discord e jogos online
+  ⚡ Sistemas modernos, organizados e fáceis de usar  
+  🎯 Ideal para lojas, comunidades e jogos
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/SEULINK">
+    <img src="https://img.shields.io/badge/Entrar%20na%20Loja-Join%20Now-5865F2?style=for-the-badge&logo=discord"/>
+  </a>
+</p>
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/DevVitor">
     <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
