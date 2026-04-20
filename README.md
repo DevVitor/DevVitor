@@ -67,11 +67,11 @@
   🎯 Ideal para lojas, comunidades e jogos
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.gg/9wFGjNjbbS">
     <img src="https://img.shields.io/badge/Entrar%20na%20Loja-Join%20Now-5865F2?style=for-the-badge&logo=discord"/>
   </a>
-</p>
+</p> -->
 
 ---
 
