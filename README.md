@@ -53,11 +53,7 @@
 
 ## 🧩 Projetos
 
-### 🛒 Hadak Store (Discord)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-Loja%20de%20Painéis-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
+### 🛒 Hadak Store (Discord) [link privado]
 
 <p align="center">
   💼 Painéis personalizados para servidores Discord e jogos online
