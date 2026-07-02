@@ -21,14 +21,7 @@
 ## 📊 Estatísticas
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DevVitor&show_icons=true&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVitor&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
+<p>Tirei pq a API parou de funcionar, sem tempo para corrigir</p>
 </table>
 
 ---
